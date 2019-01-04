@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "yun music",
-        href: "https://music.163.com/"
+        href: "https://music.163.com/#/user/home?id=124423350"
     },{
         title: "WeiBo·BY",
-        href: "https://weibo.com/"
+        href: "https://weibo.com/5697837294/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1#1546578103560"
     },{
         title: "Apple",
         href: "https://apple.com"
